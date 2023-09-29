@@ -4,7 +4,7 @@ local whitelisted = {
     {name = "breedwompmeat", tags = {1}},
     {name = "Moonsecrfrfrfr", tags = {3}},
     {name = "joshuanoob2005", tags = {3}},
-    {name = "whtrhrthrthtrrth", tags = {3}},
+    {name = "whtrhrthrthtrrth", tags = {5}},
 	
 }
 	
