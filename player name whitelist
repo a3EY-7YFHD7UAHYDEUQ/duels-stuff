@@ -4,6 +4,7 @@ local whitelisted = {
     {name = "breedwompmeat", tags = {1}},
     {name = "Moonsecrfrfrfr", tags = {3}},
     {name = "joshuanoob2005", tags = {3}},
+    {name = "whtrhrthrthtrrth", tags = {3}},
 	
 }
 	
@@ -12,6 +13,7 @@ local chatTags = {
     [2] = {name = "🙏Meat Client🙏", color = Color3.fromRGB(218, 160, 109)},
     [3] = {name = "Meteor DEVELOPER", color = Color3.fromRGB(218, 160, 109)},
     [4] = {name = "👑ADMIN👑", color = Color3.fromRGB(255,0,0)},
+    [5] = {name = "balls", color = Color3.fromRGB(0,0,0)},
 
 }
 
