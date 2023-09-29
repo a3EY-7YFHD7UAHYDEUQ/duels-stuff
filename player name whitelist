@@ -9,7 +9,7 @@ local whitelisted = {
 }
 	
 local chatTags = {
-    [1] = {name = "0PRIME", color = Color3.fromRGB(218, 160, 109)},
+    [1] = {name = "0PRIME", color = Color3.fromRGB(220, 20, 60)},
     [2] = {name = "🙏Meat Client🙏", color = Color3.fromRGB(218, 160, 109)},
     [3] = {name = "Meteor DEVELOPER", color = Color3.fromRGB(218, 160, 109)},
     [4] = {name = "👑ADMIN👑", color = Color3.fromRGB(255,0,0)},
