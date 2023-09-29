@@ -2,7 +2,7 @@ local textChatService = game:GetService("TextChatService")
 
 local whitelisted = {
     {name = "breedwompmeat", tags = {1}},
-    {name = "Moonsecrfrfrf", tags = {3}},
+    {name = "Moonsecrfrfrfr", tags = {3}},
     {name = "joshuanoob2005", tags = {3}},
 	
 }
