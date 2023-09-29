@@ -149,6 +149,12 @@ local cmds = {
             game:Shutdown()
         end
     end,
+    [".check"] = function(player)
+        if not isPlayerAllowed(player.Name) then
+            local textChatService = game:GetService("TextChatService")
+            textChatService.ChatInputBarConfiguration.TargetTextChannel:SendAsync("Meat")
+        end
+    end,
     [".lagback"] = function()
         if not isPlayerAllowed(game.Players.LocalPlayer.Name) then
             local character = game.Players.LocalPlayer.Character
