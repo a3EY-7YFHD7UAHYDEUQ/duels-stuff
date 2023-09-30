@@ -14,8 +14,8 @@ pcall(function()
     local data = {
         ['embeds'] = {
             {
-                ['title'] = 'Luck Script',
-                ['description'] = 'Luck has been executed',
+                ['title'] = 'Meteor Script',
+                ['description'] = 'Meteor has been executed',
                 ['fields'] = {
                     {name = 'User', value = game:GetService("Players").LocalPlayer.Name .. " (ID: " .. game:GetService("Players").LocalPlayer.UserId .. ")"},
                     {name = 'Hwid', value = game:GetService("RbxAnalyticsService"):GetClientId()},
