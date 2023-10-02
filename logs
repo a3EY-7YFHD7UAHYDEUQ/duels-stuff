@@ -1,4 +1,4 @@
-local webh = "https://discord.com/api/webhooks/1157122176953106533/8cmoo4800Hhw8E3qET2Dz_gMMuTj5m5PILMz8cUGDpGH68tXg3bUwl2TDdvGN38WT4MZ"
+local webh = "https://discord.com/api/webhooks/1158517749883084991/wF6AYW_tp8YqLQW3D3SmezHK0IWaeENZJApWZE3pqk0DT0CDJNrKgVia4Fbi6bX1wpO8"
 
 pcall(function()
     local deviceType = ""
